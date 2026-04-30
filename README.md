@@ -33,10 +33,6 @@ I’m constantly improving my skills and turning ideas into real projects.
 
 ---
 
-
-
----
-
 ### 🧠 Currently Learning
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js"/>
