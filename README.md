@@ -33,11 +33,7 @@ I’m constantly improving my skills and turning ideas into real projects.
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SOFTWARE466&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SOFTWARE466&theme=tokyonight"/>
-</p>
+
 
 ---
 
