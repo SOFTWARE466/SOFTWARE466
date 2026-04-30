@@ -13,7 +13,7 @@ Hi, I'm Ahmet 👋
 I'm a developer from Kazakhstan 🇰🇿, focused on building clean and modern web applications.  
 Currently learning HTML, CSS, JavaScript, and Python, and applying them in real projects.  
 
-🚀 I've built my first project — Anime Hub (anime website)  
+🚀 I've built my first project — Ahyrox Hub (anime website)  
 🐍 I'm learning Python and interested in backend development & automation  
 🎯 My goal is to become a software engineer and create products used worldwide  
 
